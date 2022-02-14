@@ -3,3 +3,13 @@ __pycache__
 bin
 .env
 env
+*.log
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
